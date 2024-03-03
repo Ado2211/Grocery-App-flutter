@@ -1,4 +1,4 @@
-import 'package:grocery_app/utils/color_constant.dart';
+import 'package:grocery_app/core/utils/color_constant.dart';
 
 import '../my_bag_page/widgets/listrectangleone_item_widget.dart';
 import '../my_bag_page/widgets/listtime_item_widget.dart';
