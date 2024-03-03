@@ -1,5 +1,5 @@
-import 'package:grocery_app/utils/color_constant.dart';
-import 'package:grocery_app/utils/size_utils.dart';
+import 'package:grocery_app/core/utils/color_constant.dart';
+import 'package:grocery_app/core/utils/size_utils.dart';
 
 import 'controller/splash_controller.dart';
 import 'package:flutter/material.dart';

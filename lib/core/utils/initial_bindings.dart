@@ -1,6 +1,6 @@
 import 'package:grocery_app/core/app_export.dart';
 import 'package:grocery_app/data/apiClient/api_client.dart';
-import 'package:grocery_app/utils/pref_utils.dart';
+import 'package:grocery_app/core/utils/pref_utils.dart';
 
 class InitialBindings extends Bindings {
   @override
