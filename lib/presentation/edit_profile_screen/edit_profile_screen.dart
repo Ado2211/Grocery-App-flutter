@@ -208,6 +208,7 @@ class EditProfileScreen extends GetWidget<EditProfileController> {
   onTapBtntf() async {
     await PermissionManager.askForPermission(Permission.camera);
     await PermissionManager.askForPermission(Permission.storage);
+    // ignore: unused_local_variable
     List<String?>? imageList = [];
 //TODO: Permission - use imageList for using selected images
     await FileManager().showModelSheetForImage(getImages: (value) async {

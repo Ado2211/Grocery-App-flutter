@@ -4,5 +4,7 @@ Rx<BottomBarEnum> type = BottomBarEnum.Imghome.obs;
 
 @override void onReady() { super.onReady(); } 
 @override void onClose() { super.onClose(); } 
-@override void onInit() {  } 
+@override void onInit() {
+  super.onInit();
+  } 
  }
