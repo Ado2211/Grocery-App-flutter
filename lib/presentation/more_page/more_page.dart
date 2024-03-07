@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'controller/more_controller.dart';
 import 'models/more_model.dart';
 import 'package:flutter/material.dart';

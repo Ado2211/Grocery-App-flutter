@@ -1,6 +1,10 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 
+
 Size size = WidgetsBinding.instance.window.physicalSize /
+  
     WidgetsBinding.instance.window.devicePixelRatio;
 const num DESIGN_WIDTH = 375;
 const num DESIGN_HEIGHT = 812;
